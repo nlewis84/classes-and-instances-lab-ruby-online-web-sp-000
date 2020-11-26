@@ -1,4 +1,4 @@
-case Person
+class Person
 
 end
 
